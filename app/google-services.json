@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "519708903547",
+    "project_id": "data-karyawan-9c05a",
+    "storage_bucket": "data-karyawan-9c05a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519708903547:android:84c99650d2d3749f9dfade",
+        "android_client_info": {
+          "package_name": "com.datakaryawan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519708903547-icjq12ohvo5noqmvsstb4ng2oe2s9ubr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkS6adFdj4iZCxbPv4_fOFwn7E6xiJTdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519708903547-icjq12ohvo5noqmvsstb4ng2oe2s9ubr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
